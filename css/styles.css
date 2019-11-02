@@ -29,6 +29,7 @@ h4 {
   color: black;
   font-family: 'Pacifico', cursive;
   font-size: 2em;
+  margin: 0;
 }
 
 .featured-image {
@@ -37,5 +38,8 @@ h4 {
 }
 
 .featured {
-  float: right;
+  float: left;
+  word-wrap: break-word;
+  width: 400px;
+  text-align: left;
 }
