@@ -8,10 +8,12 @@ h1 {
 p {
   color: black;
   font-family: 'Roboto', sans-serif;
+  text-align: center;
 }
 
 h3 {
   color: black;
   font-family: 'Roboto', sans-serif;
   font-size: 3em;
+  text-align: center;
 }
