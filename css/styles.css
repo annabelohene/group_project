@@ -4,3 +4,14 @@ h1 {
   text-align: center;
   font-size: 7em;
 }
+
+p {
+  color: black;
+  font-family: 'Roboto', sans-serif;
+}
+
+h3 {
+  color: black;
+  font-family: 'Roboto', sans-serif;
+  font-size: 3em;
+}
