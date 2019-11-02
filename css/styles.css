@@ -33,4 +33,9 @@ h4 {
 
 .featured-image {
   width: 200px;
+  float: left;
+}
+
+.featured {
+  float: right;
 }
