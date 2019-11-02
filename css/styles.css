@@ -24,3 +24,7 @@ h3 {
   font-size: 3em;
   text-align: center;
 }
+
+.featured {
+  width: 200px;
+}
