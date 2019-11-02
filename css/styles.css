@@ -42,13 +42,12 @@ h4 {
   float: left;
   word-wrap: break-word;
   width: 400px;
-  text-align: left;
 }
 
 .intro {
   background-color: purple;
 }
 
-p.intro {
-  color: white;
+.intro p{
+  color: white; <!-- wont work :(-->
 }
