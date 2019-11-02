@@ -33,20 +33,22 @@ h4 {
   margin: 0;
 }
 
-.featured-image {
-  width: 200px;
-  float: left;
-  margin: 10px;
+.featured img{
+  width: 300px;
 }
 
-.featured {
-  float: left;
+.featured p, h4{
   word-wrap: break-word;
   width: 400px;
 }
 
+.featured img,p,h4{
+  display: block;
+  margin: 10px auto;
+}
+
 .intro {
-  background-color: purple;
+  background-color: rgb(89,25,124);
 }
 
 .intro p{
