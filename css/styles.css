@@ -5,6 +5,13 @@ h1 {
   font-size: 7em;
 }
 
+h2 {
+  color: blac;
+  font-family: 'Pacifico', cursive;
+  text-align: center;
+  font-size: 5em;
+}
+
 p {
   color: black;
   font-family: 'Roboto', sans-serif;
