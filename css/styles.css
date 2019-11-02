@@ -44,3 +44,11 @@ h4 {
   width: 400px;
   text-align: left;
 }
+
+.intro {
+  background-color: purple;
+}
+
+p.intro {
+  color: white;
+}
