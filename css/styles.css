@@ -119,15 +119,19 @@ h4 {
   padding: 10px;
 }
 
+.thumbnail img{
+  width: 400px;
+}
+
 /* .activities img{
   width: 200px;
 } */
 
-.activities figcaption{
+/* .activities figcaption{
   word-wrap: break-word;
   width: 200px;
   font-family: 'Roboto', sans-serif;
-}
+} */
 
 .footer {
   position: fixed;
