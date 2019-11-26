@@ -64,6 +64,15 @@ h4 {
   text-align: center;
 }
 
+.title {
+  background-color: white;
+}
+
+.form {
+  background-color: pink;
+  text-align: center;
+}
+
 .featured img{
   width: 500px;
   margin: 10px;
