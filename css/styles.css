@@ -65,7 +65,8 @@ h4 {
 }
 
 .featured img{
-  width: 300px;
+  width: 500px;
+  margin: 10px;
 }
 
 .featured p, h4{
