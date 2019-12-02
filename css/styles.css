@@ -124,6 +124,9 @@ h6 {
 
 .others-title {
   height: 300px;
+  line-height: 300px;
+  padding: 100px;
+  border: 1px;
 }
 
 .others-title h4 {
