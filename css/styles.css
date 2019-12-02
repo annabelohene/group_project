@@ -1,5 +1,5 @@
 .circ_2{
-    max-width: 250px;
+    max-width: 225px;
     align-self: center;
     text-align: center;
 }
@@ -31,7 +31,7 @@
 }
 
 body {
-  background-image: url("https://i.ibb.co/Gp49Phv/women-background.png");
+  background-image: url(women-background.png);
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -48,7 +48,7 @@ h2 {
   color: white;
   font-family: 'Pacifico', cursive;
   text-align: center;
-  font-size: 5em;
+  font-size: 7em;
   margin: 10px;
 }
 
@@ -79,14 +79,60 @@ h6 {
   text-align: center;
 }
 
+#myName {
+  height: 40px;
+  width: 320px;
+}
+
+#myEmail {
+  height: 40px;
+  width: 320px;
+}
+
+#myWoman {
+  height: 150px;
+  width: 320px;
+}
+
 .title {
-  background-color: white;
+  height: 500px;
+  /* line-height: 500px;
+  /* padding: 50px; */ */
+}
+
+.opening {
+  height: 500px;
+}
+
+#subtitle {
+  vertical-align: middle;
+  padding: 60px;
+}
+
+.title h1, p{
+  color: white;
+}
+
+.title p{
+  font-family: 'Poppins', sans-serif;
+  font-size: 2.5em;
 }
 
 .form {
   background-color: pink;
   text-align: center;
+  height: 500px;
+  white-space: pre;
 }
+
+.form p{
+  font-size: 2em;
+}
+
+#submitform {
+  height: 40px;
+}
+
 
 .featured {
   background-color: rgb(35, 159, 157, 0.8)
@@ -99,11 +145,17 @@ h6 {
   color: #1A1A1A;
 }
 
+
 .featuredtext {
   /* background-color: rgb(255, 255, 255, 0.8); */
   height: 500px;
-  padding: 15px;
+  padding: 80px;
   margin: 10px;
+}
+
+.featured p {
+  font-size: 1.5em;
+  padding: 10px;
 }
 
 .featured img{
@@ -113,13 +165,18 @@ h6 {
 }
 
 .intro {
-  background-color: #ED9C98;
+  /* background-color: #ED9C98; */
   margin: 0;
+  height: 700px;
 }
 
 .intro p{
   color: white;
   font-size: 2em;
+}
+
+.introtext {
+  padding: 200px;
 }
 
 .others-title {
@@ -239,6 +296,7 @@ h5 {
 .activities {
   background-color: #FF9250;
   padding: 10px;
+  height: 600px;
 }
 
 .activities-title {
@@ -256,8 +314,19 @@ h5 {
     width: 100%;
 }
 
+.act-stuff {
+  padding: 100px;
+}
+
+.act-title-text {
+  height: 300px;
+  padding: 75px;
+}
+
 .activities-title p {
-  color:white;
+  color: white;
+  font-size: 2em;
+  padding: 20px;
 }
 
 .activities img{
