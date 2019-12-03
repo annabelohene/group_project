@@ -1,7 +1,7 @@
 .circ_2{
-    max-width: 225px;
-    align-self: center;
-    text-align: center;
+  max-width: 225px;
+  align-self: center;
+  text-align: center;
 }
 
 .topnav {
@@ -200,12 +200,12 @@ form{
 .others-title h4 {
   color: white;
   text-align: center;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-content: center;
-    align-items: center;
-    width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  width: 100%;
 }
 
 .others {
@@ -224,84 +224,84 @@ form{
 
 .hvrbox,
 .hvrbox * {
-	box-sizing: border-box;
+  box-sizing: border-box;
 }
 .hvrbox {
-	position: relative;
-	display: inline-block;
-	overflow: hidden;
-	max-width: 100%;
-	height: auto;
+  position: relative;
+  display: inline-block;
+  overflow: hidden;
+  max-width: 100%;
+  height: auto;
 }
 .hvrbox img {
-	max-width: 100%;
+  max-width: 100%;
 }
 .hvrbox .hvrbox-layer_bottom {
-	display: block;
+  display: block;
 }
 .hvrbox .hvrbox-layer_top {
-	opacity: 0;
-	position: absolute;
-	top: 0;
-	left: 0;
-	right: 0;
-	bottom: 0;
-	width: 100%;
-	height: 100%;
-	background: rgba(255, 147, 80, 0.6);
-	color: #fff;
-	padding: 15px;
-	-moz-transition: all 0.4s ease-in-out 0s;
-	-webkit-transition: all 0.4s ease-in-out 0s;
-	-ms-transition: all 0.4s ease-in-out 0s;
-	transition: all 0.4s ease-in-out 0s;
+  opacity: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(255, 147, 80, 0.6);
+  color: #fff;
+  padding: 15px;
+  -moz-transition: all 0.4s ease-in-out 0s;
+  -webkit-transition: all 0.4s ease-in-out 0s;
+  -ms-transition: all 0.4s ease-in-out 0s;
+  transition: all 0.4s ease-in-out 0s;
 }
 .hvrbox:hover .hvrbox-layer_top,
 .hvrbox.active .hvrbox-layer_top {
-	opacity: 1;
+  opacity: 1;
 }
 .hvrbox .hvrbox-text {
-	text-align: center;
-	font-size: 18px;
+  text-align: center;
+  font-size: 18px;
   font-family:'Roboto', sans-serif;
-	display: inline-block;
-	position: absolute;
-	top: 50%;
-	left: 50%;
-	-moz-transform: translate(-50%, -50%);
-	-webkit-transform: translate(-50%, -50%);
-	-ms-transform: translate(-50%, -50%);
-	transform: translate(-50%, -50%);
+  display: inline-block;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -moz-transform: translate(-50%, -50%);
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
 }
 .hvrbox .hvrbox-text_mobile {
-	font-size: 15px;
-	border-top: 1px solid rgb(179, 179, 179); /* for old browsers */
-	border-top: 1px solid rgba(179, 179, 179, 0.7);
-	margin-top: 5px;
-	padding-top: 2px;
-	display: none;
+  font-size: 15px;
+  border-top: 1px solid rgb(179, 179, 179); /* for old browsers */
+  border-top: 1px solid rgba(179, 179, 179, 0.7);
+  margin-top: 5px;
+  padding-top: 2px;
+  display: none;
 }
 .hvrbox.active .hvrbox-text_mobile {
-	display: block;
+  display: block;
 }
 
 h5 {
   font-size: 24px;
 }
 /* .row {
-  display: flex;
-  flex-wrap: wrap;
-  padding: 0 4px;
+display: flex;
+flex-wrap: wrap;
+padding: 0 4px;
 }
 
 .col-sm-6 {
-  flex: 50%;
-  padding: 0 4px;
+flex: 50%;
+padding: 0 4px;
 }
 
 .col-sm-6 img{
-  margin-top: 8px;
-  vertical-align: middle;
+margin-top: 8px;
+vertical-align: middle;
 } */
 
 .activities {
@@ -317,12 +317,12 @@ h5 {
 .activities-title h4 {
   color: white;
   text-align: center;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-content: center;
-    align-items: center;
-    width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  width: 100%;
 }
 
 .act-stuff {
@@ -349,13 +349,13 @@ h5 {
 }
 
 /* .activities img{
-  width: 200px;
+width: 200px;
 } */
 
 /* .activities figcaption{
-  word-wrap: break-word;
-  width: 200px;
-  font-family: 'Roboto', sans-serif;
+word-wrap: break-word;
+width: 200px;
+font-family: 'Roboto', sans-serif;
 } */
 
 .footer {
@@ -378,7 +378,7 @@ h5 {
 }
 
 .fa:hover {
-    opacity: 0.7;
+  opacity: 0.7;
 }
 
 .fa-facebook {
