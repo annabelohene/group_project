@@ -101,17 +101,19 @@ h6 {
 }
 
 .opening {
-  height: 500px;
+  height: 400px;
+
 }
 
 #subtitle {
   vertical-align: middle;
-  padding: 60px;
+  padding: 130px;
 }
 
 .title h1, p{
   color: white;
 }
+
 
 .title p{
   font-family: 'Poppins', sans-serif;
